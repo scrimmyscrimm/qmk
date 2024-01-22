@@ -1,6 +1,6 @@
 # keebmonkey bongocat 3-key macropad
 
-![Keebmonkey Bongo Cat 3-key Macro Pad](https://imgur.com/a/hcBsd3t.jpg)
+![Keebmonkey Bongo Cat 3-key Macro Pad](https://www.keebmonkey.com/cdn/shop/files/4S6A7519.jpg?v=1698761594&width=4096)
 
 A 3-key Macro Pad that seems to use a (possibly stolen) PCB build based on Binepad's BN003 but with a different MCU.
 
