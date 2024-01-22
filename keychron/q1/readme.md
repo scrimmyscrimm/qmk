@@ -2,7 +2,7 @@
 
 ![Keychron Q1](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/pf-823ebdc7--1073.jpg)
 
-A customizable 75% keyboard.
+My personal updates/changes to the customizable 75% keyboard by Keychron.
 
 * Keyboard Maintainer: [Keychron](https://github.com/keychron)
 * Hardware Supported: Keychron Q1
