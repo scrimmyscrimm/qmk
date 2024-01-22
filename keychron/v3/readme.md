@@ -1,6 +1,6 @@
 # Keychron V3
 
-A customizable 80% keyboard.
+My personal updates/changes to the customizable 80% keyboard by Keychron.
 
 * Keyboard Maintainer: [Keychron](https://github.com/keychron)
 * Hardware Supported: Keychron V3
